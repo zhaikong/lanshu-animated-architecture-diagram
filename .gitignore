@@ -9,3 +9,5 @@ work/
 dist/
 build/
 *.egg-info/
+config.bat
+node_modules
